@@ -1,0 +1,10 @@
+AMP - Ampicillin
+CAM - Chloramphenicol
+CIP - Ciprofloxacin
+CTX - Cefotaxime
+KAN - Kanamycin
+MERO - Meropenem
+SPEC - Spectinomycin
+TET - Tetracycline
+TOBRA - Tobramycin
+TRIM - Trimethoprim
