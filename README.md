@@ -19,15 +19,13 @@ However, not all pairs of bacteria are equally likely to exchange conjugative el
 * To reference the source of the data in a scientifically correct way when presented
 
 
-### Currently available data: 
-* Sequence data for xxx *E. coli* can be downloaded here: 
-* Reads: xxx 
-* Assemblies: xxx 
-* Variant calls relative the yyy reference: xxx
+### Currently available data:  
+* Antibiotic resistance data for the *E. coli* collection can be downloaded here: https://github.com/matdechiara/TransPred/tree/main/phenotypes
+* Newly sequenced reads: xxx 
+* Assemblies: TBR 
+* Annotations : TBR
+* Variant calls relative to the K12 reference NC_000913.3 (https://www.ncbi.nlm.nih.gov/nuccore/556503834) for 1991 isolates : TBR
 
- ### Antibiotic resistance data for xxx *E. coli* can be downloaded here: 
-* Cell doubling times in presence of an antibiotic, normalized to a reference strain: yyy 
-* Cell doubling times in presence of an antibiotic, normalized to a reference strain and normalized to the same measure in absence of the antibiotic: yyy 
 
 
 ## Partners and contact: 
