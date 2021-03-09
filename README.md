@@ -34,3 +34,25 @@ To reference the source of the data in a scientifically correct way when present
 ### Links: 
 * Joint Programming Initiative for Antimicrobial Resistance (JPIAMR) - https://www.jpiamr.eu/
 * Centre for Antibiotic Resistance research in Gothenburg (CARe) - https://www.gu.se/care
+
+
+#Partners and contact: 
+* Dr. Anne Farewell, University of Gothenburg, Department of Cell and Molecular Biology, Box 462, 405 30 Göteborg, Sweden +46317862583, +46317862599 (Fax), anne.farewell@cmb.gu.se 
+ 
+* Dr. Gianni Liti: University of Nice, Institute for Research on Cancer and Ageing of Nice 
+(IRCAN), 28 Ave de Valombrose, 06107, Nice Cedex 02, France, +33 (0)4 93 37 7672, +33 (0)4 93 37 7676 (Fax), gianni.liti@unice.fr 
+ 
+* Dr. Jonas Warringer: University of Gothenburg, Department of Chemistry and Molecular Biology, Associate Professor/Senior Lecturer, Box 462, 40530, Gothenburg, Sweden 
+Phone: +46317863961, Fax: +46317862599, Jonas.warringer@cmb.gu.se 
+ 
+* Dr Danesh Moradigaravand, Centre for Computational Biology, Institute of Cancer and Genomic Sciences, Haworth Building (Y2), University of Birmingham, Edgbaston, Birmingham B15 2TTDr, +44 (0)121 414 8852,d.moradigaravand@bham.ac.uk 
+ 
+* Prof. Edward Moore: University of Gothenburg, Sahlgrenska Academy, Institute of, Biomedicine Box 440, 41346, Gothenburg, Sweden, +46 31 342 4696, +46 31 829 617 
+(Fax), edward.moore@gu.se 
+ 
+* Dr, Leopold Parts, Wellcome Trust, Sanger Institute, Wellcome Trust Genome Campus, Hinxton, Cambridge CB101SA, United Kingdom, +441223 492375, +44 (0)1223 494919 
+(Fax), leopold.parts@sanger.ac.uk 
+ 
+* Prof. Jan Michiels: University of Leuven, Centre of Microbial and Plant Genetics, Department of Microbial and Molecular Systems, University of Leuven, Kasteelpark Arenberg 20, box 2460, B-3001 Heverlee, +32 16 32 9684, +32 16 32 19 63 (Fax), Jan.michiels@kuleuven.be 
+ 
+* Prof. Ville Mustonen, University of Helsinki, Department of Computer Science, Helsinki Institute for Information Technology, Institute of Biotechnology, PL 56 (Viikinkaari 9), 00014 Finland,  +358503116206, +358294159602, v.mustonen@helsinki.fi 
