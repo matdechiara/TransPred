@@ -1,4 +1,4 @@
-#### ** *WORK IN PROGRESS* **
+#### ***WORK IN PROGRESS***
 
 # TRANSPRED
 Predicting cell-cell horizontal transmission of antibiotics resistance from genome and phenome
@@ -23,12 +23,12 @@ However, not all pairs of bacteria are equally likely to exchange conjugative el
 
 ### Currently available data:  
 * Antibiotic resistance data for the *E. coli* collection can be downloaded here: https://github.com/matdechiara/TransPred/tree/main/phenotypes
-* Newly sequenced reads: xxx 
-* Assemblies: TBR 
-* Annotations : TBR
-* Non redundant pangenome (75% identity threshold): TBR
-* Presence/Absence matrix (1991 isolates) : TBR
-* Variant calls relative to the K12 reference NC_000913.3 (https://www.ncbi.nlm.nih.gov/nuccore/556503834) for 1991 isolates : TBR
+* Newly sequenced reads: ***xxx*** 
+* Assemblies: **TBR** 
+* Annotations : **TBR**
+* Non redundant pangenome (75% identity threshold): **TBR**
+* Presence/Absence matrix (1991 isolates) : **TBR**
+* Variant calls relative to the K12 reference NC_000913.3 (https://www.ncbi.nlm.nih.gov/nuccore/556503834) for 1991 isolates : **TBR**
 
 
 
