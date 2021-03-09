@@ -2,7 +2,7 @@
 Predicting cell-cell horizontal transmission of antibiotics resistance from genome and phenome
 
 ### Overview: 
-TransPred is a collaborative research program, funded by the European Joint Programming Initiative for Antimicrobial Resistance, that seeks to understand genetic factors that controls the horizontal transmission of antibiotic resistance between gram negative bacteria and to disclose drug targets whose inhibition would slow the spread of antibiotics resistance. The program sequences E. coli strains isolated from animals, the environment and patients and measures their capacity to resist antibiotics and transfer this resistance to other strains. Genes and alleles explaining these properties are identified by genome-wide association analysis and machine learning predictions and confirmed in experiments.  
+TransPred is a collaborative research program, funded by the European Joint Programming Initiative for Antimicrobial Resistance, that seeks to understand genetic factors that controls the horizontal transmission of antibiotic resistance between gram negative bacteria and to disclose drug targets whose inhibition would slow the spread of antibiotics resistance. The program sequences *E. coli* strains isolated from animals, the environment and patients and measures their capacity to resist antibiotics and transfer this resistance to other strains. Genes and alleles explaining these properties are identified by genome-wide association analysis and machine learning predictions and confirmed in experiments.  
  
 ### Background: 
 Antibiotics resistance is an accelerating crisis in gram-negative bacteria. Horizontal transmission of antibiotic resistance factors combined with the selective pressure imposed by antibiotic use has facilitated a rapid spread of resistance between and within pathogenic bacterial species. Only few new antibiotics against gram-negatives are in clinical trials and resistance also to new antibiotics is predicted to spread rapidly upon clinical introduction. New approaches to this problem are sorely needed. 
@@ -20,12 +20,12 @@ To reference the source of the data in a scientifically correct way when present
 
 
 ### Currently available data: 
-* Sequence data for xxx E. coli can be downloaded here: 
+* Sequence data for xxx *E. coli* can be downloaded here: 
 * Reads: xxx 
 * Assemblies: xxx 
 * Variant calls relative the yyy reference: xxx
 
- ### Antibiotic resistance data for xxx E. coli can be downloaded here: 
+ ### Antibiotic resistance data for xxx *E. coli* can be downloaded here: 
 * Cell doubling times in presence of an antibiotic, normalized to a reference strain: yyy 
 * Cell doubling times in presence of an antibiotic, normalized to a reference strain and normalized to the same measure in absence of the antibiotic: yyy 
 
