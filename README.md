@@ -13,10 +13,10 @@ However, not all pairs of bacteria are equally likely to exchange conjugative el
 
 
 ## Data and terms of use: 
-TransPred continuously releases E. coli sequence,  antibiotics resistance and transmission of resistance data from strains accumulating in the project. The data is available to academic users provided that such users agree: 
-Not to distribute the data to third parties 
-Not to present or publish analysis of the data unless the data has been published in peer reviewed scientific journals by members of the consortium 
-To reference the source of the data in a scientifically correct way when presented
+* TransPred continuously releases *E. coli* sequence,  antibiotics resistance and transmission of resistance data from strains accumulating in the project. The data is available to academic users provided that such users agree: 
+* Not to distribute the data to third parties 
+* Not to present or publish analysis of the data unless the data has been published in peer reviewed scientific journals by members of the consortium 
+* To reference the source of the data in a scientifically correct way when presented
 
 
 ### Currently available data: 
