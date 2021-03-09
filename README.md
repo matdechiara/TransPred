@@ -43,7 +43,7 @@ TransPred continuously releases *E. coli* sequence,  antibiotics resistance and 
 * Dr. Jonas Warringer: University of Gothenburg, Department of Chemistry and Molecular Biology, Associate Professor/Senior Lecturer, Box 462, 40530, Gothenburg, Sweden 
 Phone: +46317863961, Fax: +46317862599, Jonas.warringer@cmb.gu.se 
  
-* Dr Danesh Moradigaravand, Centre for Computational Biology, Institute of Cancer and Genomic Sciences, Haworth Building (Y2), University of Birmingham, Edgbaston, Birmingham B15 2TTDr, +44 (0)121 414 8852,d.moradigaravand@bham.ac.uk 
+* Dr Danesh Moradigaravand, Centre for Computational Biology, Institute of Cancer and Genomic Sciences, Haworth Building (Y2), University of Birmingham, Edgbaston, Birmingham B15 2TTDr, +44 (0)121 414 8852, d.moradigaravand@bham.ac.uk 
  
 * Prof. Edward Moore: University of Gothenburg, Sahlgrenska Academy, Institute of, Biomedicine Box 440, 41346, Gothenburg, Sweden, +46 31 342 4696, +46 31 829 617 
 (Fax), edward.moore@gu.se 
