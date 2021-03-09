@@ -29,10 +29,6 @@ To reference the source of the data in a scientifically correct way when present
 * Cell doubling times in presence of an antibiotic, normalized to a reference strain: yyy 
 * Cell doubling times in presence of an antibiotic, normalized to a reference strain and normalized to the same measure in absence of the antibiotic: yyy 
 
-#### Links: 
-* Joint Programming Initiative for Antimicrobial Resistance (JPIAMR) - https://www.jpiamr.eu/
-* Centre for Antibiotic Resistance research in Gothenburg (CARe) - https://www.gu.se/care
-
 
 ## Partners and contact: 
 * Dr. Anne Farewell, University of Gothenburg, Department of Cell and Molecular Biology, Box 462, 405 30 Göteborg, Sweden +46317862583, +46317862599 (Fax), anne.farewell@cmb.gu.se 
@@ -54,3 +50,8 @@ Phone: +46317863961, Fax: +46317862599, Jonas.warringer@cmb.gu.se
 * Prof. Jan Michiels: University of Leuven, Centre of Microbial and Plant Genetics, Department of Microbial and Molecular Systems, University of Leuven, Kasteelpark Arenberg 20, box 2460, B-3001 Heverlee, +32 16 32 9684, +32 16 32 19 63 (Fax), Jan.michiels@kuleuven.be 
  
 * Prof. Ville Mustonen, University of Helsinki, Department of Computer Science, Helsinki Institute for Information Technology, Institute of Biotechnology, PL 56 (Viikinkaari 9), 00014 Finland,  +358503116206, +358294159602, v.mustonen@helsinki.fi 
+
+
+#### Links: 
+* Joint Programming Initiative for Antimicrobial Resistance (JPIAMR) - https://www.jpiamr.eu/
+* Centre for Antibiotic Resistance research in Gothenburg (CARe) - https://www.gu.se/care
