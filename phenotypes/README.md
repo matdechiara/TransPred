@@ -26,6 +26,6 @@
 * **TOBRA** : Tobramycin
 * **TRIM** : Trimethoprim
 
-Concentration are expressed as **ccc**
+Concentration are expressed as ***ccc***
 
 
