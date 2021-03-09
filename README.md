@@ -24,6 +24,8 @@ However, not all pairs of bacteria are equally likely to exchange conjugative el
 * Newly sequenced reads: xxx 
 * Assemblies: TBR 
 * Annotations : TBR
+* Non redundant pangenome (75% identity threshold): TBR
+* Presence/Absence matrix (1991 isolates) : TBR
 * Variant calls relative to the K12 reference NC_000913.3 (https://www.ncbi.nlm.nih.gov/nuccore/556503834) for 1991 isolates : TBR
 
 
