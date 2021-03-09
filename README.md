@@ -36,7 +36,7 @@ To reference the source of the data in a scientifically correct way when present
 * Centre for Antibiotic Resistance research in Gothenburg (CARe) - https://www.gu.se/care
 
 
-#Partners and contact: 
+# *Partners and contact: 
 * Dr. Anne Farewell, University of Gothenburg, Department of Cell and Molecular Biology, Box 462, 405 30 Göteborg, Sweden +46317862583, +46317862599 (Fax), anne.farewell@cmb.gu.se 
  
 * Dr. Gianni Liti: University of Nice, Institute for Research on Cancer and Ageing of Nice 
