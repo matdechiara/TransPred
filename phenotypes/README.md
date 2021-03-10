@@ -18,34 +18,20 @@
 * **AMP** : Ampicillin sodium salt
      * 4, 6 or 8 micrograms/ml
 * **CAM** : Chloramphenicol
+     * 0.5, 1 or 2 micrograms/ml 
 * **CIP** : Ciprofloxacin
+     * 0.002, 0.004 or 0.008 micrograms/ml
 * **CTX** : Cefotaxime sodium salt
+     * 0.5, 1 or 2 micrograms/ml 
 * **KAN** : Kanamycin sulfate
+     * 4, 8 or 16 micrograms/ml
 * **MERO** : Meropenem trihydrate
+     * 0.03, 0.05 or 0.075 micrograms/ml 
 * **SPEC** : Spectinomycin dihydrochloride pentahydrate
+     * 1.25, 2.5, 5 micrograms/ml 
 * **TET** : Tetracycline hydrochloride
+     * 0.3, 0.6, 1.25 micrograms/ml
 * **TOBRA** : Tobramycin sulfate salt
+     * 4, 6 or 12 micrograms/ml
 * **TRIM** : Trimethoprim
-
-Concentration are expressed as micrograms/ml
-4	6	8
-0,5	1	2
-0,5	1	2
-0,002	0,004	0,008
-4	8	16
-0,03	0,05	0,075
-1,25	2,5	5
-0,3	0,6	1,25
-4	6	12
-0,125	0,25	0,5
-
-
-
-
-
-
-
-
-
-
-
+     * 0.125, 0.25 or  0.5 micrograms/ml
