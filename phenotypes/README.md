@@ -16,7 +16,7 @@
 
 ### Antibiotic names and concetrations
 * **AMP** : Ampicillin sodium salt
-- 4, 6 or 8 micrograms/ml
+     * 4, 6 or 8 micrograms/ml
 * **CAM** : Chloramphenicol
 * **CIP** : Ciprofloxacin
 * **CTX** : Cefotaxime sodium salt
