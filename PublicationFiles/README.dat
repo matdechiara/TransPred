@@ -1,0 +1,3 @@
+The file are tar.gz, but splitted in pieces. 
+To rejoin them please use cat command, eg:
+cat Assemblies_VanWonterghem_etAl.parta* >> Assemblies_VanWonterghem_etAl.tar.gz
