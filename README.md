@@ -39,6 +39,9 @@ TransPred continuously releases *E. coli* sequence,  antibiotics resistance and 
  
 * Dr. Gianni Liti: University of Nice, Institute for Research on Cancer and Ageing of Nice 
 (IRCAN), 28 Ave de Valombrose, 06107, Nice Cedex 02, France, +33 (0)4 93 37 7672, +33 (0)4 93 37 7676 (Fax), gianni.liti@unice.fr 
+
+  * Dr. Matteo De Chiara: University of Nice, Institute for Research on Cancer and Ageing of Nice 
+    (IRCAN), 28 Ave de Valombrose, 06107, Nice Cedex 02, France, matteo.de-chiara@univ-cotedazur.fr
  
 * Dr. Jonas Warringer: University of Gothenburg, Department of Chemistry and Molecular Biology, Associate Professor/Senior Lecturer, Box 462, 40530, Gothenburg, Sweden 
 Phone: +46317863961, Fax: +46317862599, Jonas.warringer@cmb.gu.se 
